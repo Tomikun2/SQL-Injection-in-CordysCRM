@@ -98,11 +98,11 @@ HTTP
 POST /user/list HTTP/1.1
 Host: ip:8081
 Accept: application/json, text/plain, */*
-Origin: http://120.24.51.177:8081
+Origin: http://ip:8081
 Accept-Encoding: gzip, deflate
 X-AUTH-TOKEN: a02ebc8c-83c7-45e6-9a48-95c249ef8cb8
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-Referer: http://120.24.51.177:8081/
+Referer: http://ip:8081/
 Accept-Language: zh-CN
 Content-Type: application/json;charset=UTF-8
 CSRF-TOKEN: CYkmuI1mFPJzzgCqqe7HRA37AAw+I8J/qzbRjXiVWJO0XbmCcRvNx+WQCOzTLfM6oUzUK8fUPN/skLYEWi3SDw23e4fH5TalUE6d1NfoTw==
