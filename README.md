@@ -122,7 +122,7 @@ Content-Length: 184
 ```
 <img width="2396" height="896" alt="e2ce326800d22bd46b4c4ac300cde199" src="https://github.com/user-attachments/assets/8e244bb3-3cc4-4595-ae07-1bd3fa42bf02" />
 
-**Result:** The server response will be delayed by approximately **5 seconds**, confirming that the `SLEEP(5)` command was executed by the database.
+**Result:** The server response will be delayed by approximately **10 seconds**, confirming that the `SLEEP(10)` command was executed by the database.
 
 ## 4. Impact
 
