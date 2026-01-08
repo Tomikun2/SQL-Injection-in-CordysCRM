@@ -1,6 +1,4 @@
-# [Security Vulnerability] SQL Injection in CordysCRM `/user/list` via `departmentIds`
-
-**BUG_Author:** liushaozhe 
+# [Security Vulnerability] SQL Injection in CordysCRM `/user/list` via `departmentIds
 
 Affected Version: Latest (Tested on v1.4.1) 
 
